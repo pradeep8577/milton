@@ -4,7 +4,7 @@ A responsive landing page inspired by Milton, built using React.js and Tailwind 
 ## Table of Contents
 - [Overview](#overview)
 - [Deployment](#deployment)
-- [Features](#features)
+- [Features](#features)F
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
 - [Built With](#built-with)
@@ -14,7 +14,7 @@ A responsive landing page inspired by Milton, built using React.js and Tailwind 
 
 ## Overview
 
-This project is a clone of the Milton landing page, showcasing the capabilities of Next.js and Tailwind CSS. The landing page is designed to be responsive and visually appealing, providing a modern user experience.
+This project is a clone of the Milton landing page, showcasing the capabilities of React.js and Tailwind CSS. The landing page is designed to be responsive and visually appealing, providing a modern user experience.
 
 ## Deployment
 
@@ -23,7 +23,7 @@ The project is deployed using Vercel. The live version can be found [here](https
 ## Features
 
 - Responsive design for various screen sizes.
-- Next.js for server-side rendering and efficient routing.
+- React.js for server-side rendering and efficient routing.
 - Tailwind CSS for styling with utility-first approach.
 
 ## Prerequisites
@@ -65,7 +65,7 @@ Open http://localhost:3000 in your browser.
 
 ## Built With
 
-- [Next.js](https://nextjs.org/) - React framework for server-side rendering and routing
+- [React.js](https://react.dev/) - React framework for server-side rendering and routing
 
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
 
