@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  scroll-behavior: smooth;
+}
+
+@layer base {
+  @font-face {
+    font-family: PlusJakartaSansRegular;
+    font-style: normal;
+    src: url("/public/Fonts/PlusJakartaSans-Regular.ttf") format("truetype");
+  }
+
+  @font-face {
+    font-family: PlusJakartaSansBold;
+    font-style: bold;
+    src: url("/public/Fonts/PlusJakartaSans-Bold.ttf") format("truetype");
+  }
+
+  @font-face {
+    font-family: PlusJakartaSansMedium;
+    font-style: medium;
+    src: url("/public/Fonts/PlusJakartaSans-Medium.ttf") format("truetype");
+  }
+
+  @font-face {
+    font-family: PlusJakartaSansExtraBold;
+    font-style: bold;
+    src: url("/public/Fonts/PlusJakartaSans-ExtraBold.ttf") format("truetype");
+  }
+}
