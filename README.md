@@ -1,5 +1,5 @@
 # Milton Clone Landing Page
-A responsive landing page inspired by Milton, built using Next.js and Tailwind CSS.
+A responsive landing page inspired by Milton, built using React.js and Tailwind CSS.
 
 ## Table of Contents
 - [Overview](#overview)
